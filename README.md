@@ -1,5 +1,5 @@
 
-<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  </head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <body>
 <p style="font-size:20px;text-align=center;"><b> أهلاً وسهلاً بكم                                           </b></p>
 <pre style="text-align:right;font-size:18px;"> <b>
@@ -18,4 +18,4 @@
 
 
 
-</b></b></body></html>
+</b></b></body>

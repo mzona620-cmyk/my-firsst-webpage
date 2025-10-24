@@ -1,15 +1,15 @@
  
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <body>
-<p style="font-size:20px;text-align=center;"><b> أهلاً وسهلاً بكم                                           </b></p>
-<pre style="text-align:right;font-size:18px;"> <b>
+<p style="font-size:16px;text-align=center;"><b> أهلاً وسهلاً بكم                                           </b></p>
+<pre style="text-align:right;font-size:16px;"> <b>
 
 السلام عليكم ورحمة الله تعالى وبركاته
 أُفراد أسرتي الفاضلة بعد التحية والإحترام والتقدير أتمنى أن تكونوا جميعاً بخير وعافية وصحة وسلامة جمعة مباركة عليكم جميعاً  
 أما بعد
 فقد قمت بإعداد هذه الصفحة كتجربة لمهارة تعلمتها حديثاً وقررت أن أُشارك هذه المهارة مع من يملكون مكانة خاصة في قلبي إذا كنت أنت أستطعت الوصول إلى هذه الصفحة، فاعلم أنك شخص مميز لدى مزن
 </b></pre>
-<pre style="text-align:right;font-size:20px;"><b> أخيراً شكراً جزيلاً لوقتك عزيزي القارئ، دمت بخير   <b></b></b></pre><b><b>
+<pre style="text-align:right;font-size:16px;"><b> أخيراً شكراً جزيلاً لوقتك عزيزي القارئ، دمت بخير   <b></b></b></pre><b><b>
 <pre style="text-align:left;font-size:16px;">أعداد:مزن أيمن إبراهيم علي
 تاريخ الإعداد:24/10/25
 </pre>
